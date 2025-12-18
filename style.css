@@ -294,10 +294,11 @@ max-width: 517px;
   border: 1px solid #eee;
  
 }
-/* section5 starts */
-
-
-/* section5 ends */
+/* media query for section4 */
+@media(max-width:576px){.section4{
+    padding-left: 20px;
+    padding-right: 20px;
+}}
 
 /* section6 starts */
 .section6{max-width:2000px;
