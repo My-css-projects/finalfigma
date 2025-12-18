@@ -408,6 +408,7 @@ margin-top: 40px;
 /* lastRow */
 .lastRow{display: flex;
 padding-top: 20px;
+gap: 30px;
 }
 
 /* lastRowLeftCol */
@@ -420,6 +421,9 @@ padding-top: 20px;
   
    
 }
+/* center-left-col */
+.center-left-col{padding-left: 20px;
+padding-right: 20px;}
 /* lastRowRightCol */
 .lastRowRightCol{flex-basis: 48%;}
 /* ldiv */
@@ -472,6 +476,7 @@ margin-top: 130px;}
 @media(max-width:1070px){
     .lastRow{display: flex;
     flex-direction: column;
+  
 align-items: center;}
 .lastRowRightCol{margin-top: 40px;}
 }
