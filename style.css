@@ -477,6 +477,13 @@ margin-top: -60px;}
     .lasttwoimg{width: 200px;}
     .lastRowLeftCol{padding-left: 20px;
     padding-right: 20px;}
+    .center-left-col{display: flex;
+    flex-direction: column;
+    
+}
+.lastRow  .lastRowRightCol{
+margin-top: -90px;
+}
     
 }
 
